@@ -1,6 +1,5 @@
-# iphone_price_pred
-Estimate the selling price of an iPhone based on its specifications.
-✅ App Overview
+Iphone Price Presiction App
+Estimate the selling price of an iPhone based on its specification
 🔮 This Streamlit app predicts iPhone prices using a trained machine learning model. It supports interactive predictions, CSV uploads, feature mapping, visual analysis, and user feedback logging.
 
 🚀 Features
@@ -18,7 +17,7 @@ Estimate the selling price of an iPhone based on its specifications.
 ⬇️ Export predictions and user feedback as CSV
 
 Streamlit will give you a public link like:
-🔗 https://your-username.streamlit.app/iphone-price-predictor
+🔗 https://mahekb15.github.io/iphone_price_pred/
 
 ✅ Sample Link Description
 📱 iPhone Price Predictor Web App
